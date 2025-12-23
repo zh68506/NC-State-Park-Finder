@@ -4,7 +4,7 @@
 
 ## Overview
 
-NC State Parks ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application.
+NC State Parks the app is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application.
 
 ## Information We Collect
 
@@ -68,8 +68,8 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
-**Email**: [Your Contact Email]  
-**GitHub**: [Your GitHub Repository URL]
+**Email**: zackary.hubbard@gmail.com 
+**GitHub**: https://github.com/zh68506/NC-State-Park-Finder
 
 ## Compliance
 
